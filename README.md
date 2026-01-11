@@ -62,6 +62,8 @@ These two tools are powerful on their own:
 - Ralph gets full context: requirements, constraints, and acceptance criteria
 - Supports both flat and feature-based Spec Kit structures
 
+> **Important:** When using spec-to-ralph, skip the `/speckit.implement` step in your Spec Kit workflow. Ralph-wiggum handles the implementation instead—that's the whole point! Your flow becomes: `/speckit.constitution` → `/speckit.spec` → `/speckit.plan` → `/speckit.tasks` → **`/start`** (spec-to-ralph takes over here).
+
 **Example workflow:**
 
 ```bash

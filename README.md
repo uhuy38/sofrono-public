@@ -1,6 +1,6 @@
-<!-- Logo/Banner placeholder - replace with your own -->
 <div align="center">
-  <h1>sofrono-plugins</h1>
+  <img src="github-readme-banner.png" alt="sofrono-plugins banner" width="100%">
+  <br><br>
   <p><strong>Productivity plugins for Claude Code that supercharge your development workflow</strong></p>
 
   <a href="https://github.com/sofrono44/sofrono-plugins/blob/main/LICENSE">

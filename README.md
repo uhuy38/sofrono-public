@@ -20,8 +20,8 @@
 
 Claude Code is powerful out of the box—but these plugins take it further:
 
-- **Stay compliant** — finra-review-skill catches regulatory issues in broker-dealer marketing materials before they become problems
 - **Bridge the gap** — spec-to-ralph is the first plugin connecting GitHub Spec Kit with ralph-wiggum for seamless spec-to-implementation workflows
+- **Stay compliant** — finra-review-skill catches regulatory issues in broker-dealer marketing materials before they become problems
 - **Think better** — Use proven frameworks (SCAMPER, Question Storming) to break through creative blocks
 - **Ship faster** — Go from structured specs to autonomous coding in one command
 - **Stay in flow** — Everything runs inside Claude Code, no context switching

